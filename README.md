@@ -1,4 +1,4 @@
-# V-rep-CoppeliaSim-mobile-robot-simulation
+# Mobile-robot-simulation
 
 ## Rviz and Gazebo SLAM on P3AT
 
